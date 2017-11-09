@@ -102,11 +102,11 @@ describe('Inheritence', function() {
 
 	});
 
-	it('Functional', function() {
-		var mammal = function(spec){
+	// it('Functional', function() {
+	// 	var mammal = function(spec){
 
-		};
+	// 	};
 
 		
-	});
+	// });
 });
